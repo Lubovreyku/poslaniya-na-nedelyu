@@ -1,4 +1,4 @@
 
-function flipCard(cardElement) {
-    cardElement.classList.toggle('flipped');
+function flipCard(card) {
+    card.classList.toggle("flipped");
 }
